@@ -11,7 +11,7 @@ edad = 19
 if edad >= 18:
     print("puedes pasar") #True (puedes pasar). Ya que 19 si es mayor o igual a 18
 
-edades = 9 
+edades = 9
 if edades >= 18:
     print("puedes pasar")
 else:
