@@ -8,3 +8,11 @@ conjunto1 = frozenset(["dato1", "dato2"]) #frozenset: Sirve para meter un cinjun
 conjunto2 ={conjunto1, "dato 3"}
 print(conjunto2)
 
+
+#Teoria de conjuntos
+conjunto1 = {1,3,5,7}
+conjunto2 = {1,3,7}
+#verificando si es un conjunto o no
+resultado = conjunto. issubset(conjunto1)
+print(resultado)
+
