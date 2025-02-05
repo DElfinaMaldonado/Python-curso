@@ -26,4 +26,4 @@ print('55to elemento en la 2da fila: ', arr[1, 4])
 #Indexación negativa #
 import numpy as np
 arr = np.array([[1,2,3,4,5], [6,7,8,9,10]])
-print('Último elemento del segundo array: ', arr[1, -1]) # 10 
+print('Último elemento del segundo array: ', arr[1, -1]) # 10
